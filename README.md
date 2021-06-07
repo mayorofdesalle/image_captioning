@@ -1,2 +1,2 @@
 # image_captioning
-Image captioning with ResNet152V2, GloVe and Attention
+Image captioning using ResNet152V2 and GloVe with Attention.
